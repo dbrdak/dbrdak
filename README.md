@@ -30,4 +30,4 @@ Feel free to drop me an [email](mailto:your-email@example.com) or connect with m
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=DBrdak)
+<!--![Profile Views](https://komarev.com/ghpvc/?username=DBrdak)-->
