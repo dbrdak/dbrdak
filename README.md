@@ -11,7 +11,7 @@ I'm a result-based, passionate software engineer who loves creating real-life pr
 ## 📌 Check it out!
 
 [![flvt](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=flvt&theme=dark)](https://github.com/DBrdak/flvt)  
-[![onyx-app](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=onyx-app&theme=dark)](https://github.com/DBrdak/onyx-app)  
+[![onyx-app](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=onyx-app&theme=light)](https://github.com/DBrdak/onyx-app)  
 [![ltly](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=ltly&theme=dark)](https://github.com/DBrdak/ltly)
 
 ---
