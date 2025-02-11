@@ -2,11 +2,7 @@
 
 I'm a result-based, passionate software engineer who loves creating real-life projects and using them in my daily routine. I value software craftsmanship across the board—from backend and frontend to cloud, data science, and product design. I enjoy collaborating on various projects and am especially focused on software architecture. Currently, I'm working as an Adestra Support Engineer, which gives me a unique and valuable perspective on software engineering.
 
----
-
-## 🔧 My GitHub Stats
-
-[![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBrdak&show_icons=true&theme=dark)](https://github.com/DBrdak)
+<!--[![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBrdak&show_icons=true&theme=dark)](https://github.com/DBrdak)-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBrdak&layout=compact&theme=dark)](https://github.com/DBrdak)
 
