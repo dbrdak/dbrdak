@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, there 👋
 
-<!--
-**DBrdak/dbrdak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a result-based, passionate software engineer who loves creating real-life projects and using them in my daily routine. I value software craftsmanship across the board—from backend and frontend to cloud, data science, and product design. I enjoy collaborating on various projects and am especially focused on software architecture. Currently, I'm working as an Adestra Support Engineer, which gives me a unique and valuable perspective on software engineering.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My GitHub Stats
+
+[![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBrdak&show_icons=true&theme=dark)](https://github.com/DBrdak)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DBrdak&layout=compact&theme=dark)](https://github.com/DBrdak)
+
+---
+
+## 📌 Check it out!
+
+[![flvt](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=flvt&theme=dark)](https://github.com/DBrdak/flvt)  
+[![onyx-app](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=onyx-app&theme=dark)](https://github.com/DBrdak/onyx-app)  
+[![ltly](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=ltly&theme=dark)](https://github.com/DBrdak/ltly)
+
+---
+
+## 🌱 What I'm Working On Currently
+
+- Preparing for AWS DVA-C02 certification
+- Building simple websites as a freelancer
+- Playing around with Data Science
+
+---
+
+## 📫 How to Reach Me
+
+Feel free to drop me an [email](mailto:your-email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dominik-brdak-08b779202/).
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=DBrdak)
