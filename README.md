@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-I'm a result-based, passionate software engineer who loves creating real-life projects and using them in my daily routine. I value software craftsmanship across the board—from backend and frontend to cloud, data science, and product design. I enjoy collaborating on various projects and am especially focused on software architecture. Currently, I'm working as an Adestra Support Engineer, which gives me a unique and valuable perspective on software engineering.
+I'm a result-based, passionate software engineer who loves creating real-life projects and using them in my daily routine. I value software craftsmanship across the board—from backend and frontend to cloud, data science, and product design. I enjoy collaborating on various projects and am especially focused on software architecture.
 
 <!--[![Dominik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DBrdak&show_icons=true&theme=dark)](https://github.com/DBrdak)-->
 
@@ -13,14 +13,6 @@ I'm a result-based, passionate software engineer who loves creating real-life pr
 [![flvt](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=flvt&theme=dark)](https://github.com/DBrdak/flvt)  
 [![onyx-app](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=onyx-app&theme=dark)](https://github.com/DBrdak/onyx-app)  
 [![ltly](https://github-readme-stats.vercel.app/api/pin/?username=DBrdak&repo=ltly&theme=dark)](https://github.com/DBrdak/ltly)
-
----
-
-## 🌱 What I'm Working On Currently
-
-- Preparing for AWS DVA-C02 certification
-- Building simple websites as a freelancer
-- Playing around with Data Science
 
 ---
 
